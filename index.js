@@ -52,9 +52,7 @@ client.on('ready', () => {
 
 });
 
-client.login(config.token);
-
-bot.login(process.env.TOKEN)
+client.login(process.env.TOKEN);
 
 fs.readdir("./events/", (err, files) => {
     if (err) return console.error(err);

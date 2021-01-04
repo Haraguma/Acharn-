@@ -1,7 +1,0 @@
-{
-    "prefix": "s!",
-    "token": "process.env.TOKEN",
-    "owner": "Craken",
-    "everyoneMention": true,
-    "hostedBy": true
-}

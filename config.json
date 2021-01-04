@@ -1,6 +1,6 @@
 {
     "prefix": "s!",
-    "token": "MzY4NTE2NTY4MzQ0NDI4NTQ2.WeE1zA.ybc_u6VyeV9Zt7Y2GIZXnWnx63w",
+    "token": "process.env.TOKEN",
     "owner": "Craken",
     "everyoneMention": true,
     "hostedBy": true
